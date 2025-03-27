@@ -13,17 +13,17 @@
 body {
 	display: flex;
 	flex-direction: column;
+    gap: 5%;
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-	background-color: #ee4266;
+	background-color: #44e5ca;
 }
 article {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	width: 80%;
-	margin-bottom: 5%;
 }
 .bottom-citation {
 	display: flex;
@@ -49,6 +49,6 @@ button {
 	cursor: pointer;
 	border-radius: 8px;
 	padding: 22px 24px 21px 25px;
-	background-color: #3bceac;
+	background-color: #4c0f19;
 	border: 2px solid #fff;
 }
